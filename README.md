@@ -8,6 +8,13 @@ The dashboard enables stakeholders to track key KPIs, identify top-selling produ
 
 ---
 
+
+## 🌐 Live Dashboard
+
+👉 [View Dashboard](https://1drv.ms/x/c/6c4a1b40c97817db/IQCT6z6TbgRWRYkcDlfX3MWsAQFS5f0ok3QOMKq4MzmIOOA?e=F2ihDN)
+
+---
+
 ## 📊 Key Metrics
 
 - ☕ Total Quantity Sold: 214,470
