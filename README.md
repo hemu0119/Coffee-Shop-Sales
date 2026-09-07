@@ -61,7 +61,9 @@ The dashboard enables stakeholders to track key KPIs, identify top-selling produ
 
 ## 📸 Dashboard Preview
 
-<img width="1182" height="634" alt="Coffee Shop Dashboard" src="https://github.com/user-attachments/assets/YOUR-IMAGE-LINK" />
+<img width="1104" height="574" alt="Image-1" src="https://github.com/user-attachments/assets/b35cd59d-7da4-4102-975c-22837c130abc" />
+
+
 
 ---
 
@@ -84,6 +86,6 @@ The dashboard enables stakeholders to track key KPIs, identify top-selling produ
 
 **Hemanth Mupparaju**
 
-Data Analyst | Excel & Power BI Developer
+Data Analyst | Power BI Developer
 
 GitHub: https://github.com/hemu0119
