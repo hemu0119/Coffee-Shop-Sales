@@ -17,9 +17,9 @@ The dashboard enables stakeholders to track key KPIs, identify top-selling produ
 
 ## 📊 Key Metrics
 
-- ☕ Total Quantity Sold: 214,470
-- 🧾 Total Transactions: 149,116
-- 💰 Total Revenue: $698,812
+- ☕ Total Quantity Sold : 214,470
+- 🧾 Total Transactions : 149,116
+- 💰 Total Revenue : $698,812
 
 ---
 
